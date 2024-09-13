@@ -1,0 +1,6 @@
+@ACA_HostAddress = http://localhost:5236
+
+GET {{ACA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
